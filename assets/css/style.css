@@ -10,19 +10,17 @@
      background-color: #2a607c;
  }
 
-
-
- .header h1 {
+ header h1 {
      display: inline-block;
      font-size: 48px;
      color: #d9dcd6;
  }
 
- .header h1 .seo {
+ header h1 .seo {
      color: #b5bbad;
  }
 
- .header div {
+ header nav {
      padding-top: 15px;
      margin-right: 20px;
      float: right;
@@ -35,10 +33,11 @@
      list-style-type: none;
  }
 */
- .header div ul li {
+ header nav ul li {
      display: inline-block;
      margin-left: 25px;
  }
+
  body {
     background-color: #d9dcd6;
 }
@@ -134,7 +133,7 @@
      font-size: 36px;
  }
 
- .benefits {
+ aside {
      margin-right: 20px;
      padding: 20px;
      clear: both;

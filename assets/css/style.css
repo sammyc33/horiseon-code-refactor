@@ -68,8 +68,6 @@
 
  }
 
-
-
  .search-engine-optimization {
      margin-bottom: 20px;
      padding: 50px;
@@ -156,7 +154,7 @@
      margin-bottom: 10px;
      text-align: center;
  }
-
+ /* Alt text: An icon with a gear funneling down to a dollar sign */
  .benefit-lead img {
      display: block;
      margin: 10px auto;
@@ -173,6 +171,7 @@
      text-align: center;
  }
 
+ /* Alt text: Icon with a person in a suit and light bulb in front of their head */
  .benefit-brand img {
      display: block;
      margin: 10px auto;
@@ -189,6 +188,7 @@
      text-align: center;
  }
 
+ /*Alt text: An icon with a gear and three coins */
  .benefit-cost img {
      display: block;
      margin: 10px auto;

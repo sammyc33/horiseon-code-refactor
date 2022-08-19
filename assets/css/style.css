@@ -28,11 +28,7 @@
      font-size: 20px;
  }
 
- /* Removed, not necessary.
- .header div ul {
-     list-style-type: none;
- }
-*/
+ 
  header nav ul li {
      display: inline-block;
      margin-left: 25px;
@@ -46,11 +42,9 @@
      text-decoration: none;
  }
 
- /*p {
-     font-size: 16px;
- } */
+ 
 
- /* Alt text: Three men and one woman sit around a conference room desk with glasses of water, reviewing paper graphs */
+
  .hero {
      height: 800px;
      width: 100%;
@@ -77,7 +71,7 @@
      color: #ffffff;
  }
 
- /* Alt text: A notebook with the word SEO written on its cover, surrounded by a laptop, magnifying glass, cup of coffee, and highlighters of various colors */
+ 
  .search-engine-optimization img {
      max-height: 200px;
      float: left;
@@ -98,7 +92,7 @@
      color: #ffffff;
  }
 
- /* Alt text: A person's hand holding a mobile phone over a laptop that displays a bar chart, two pie charts, and the word REPUTATION in all caps */
+
  .online-reputation-management img {
      max-height: 200px;
      float: right;
@@ -119,7 +113,7 @@
      color: #ffffff;
  }
 
- /* Alt tex: Multiple people's hands can be seen on top of a wooden conference table with laptops, tablets and cutouts of various tech icons and buzzwords, such as media, clouds, phones, and cameras */
+
  .social-media-marketing img {
      max-height: 200px;
      float: left;
@@ -154,7 +148,7 @@
      margin-bottom: 10px;
      text-align: center;
  }
- /* Alt text: An icon with a gear funneling down to a dollar sign */
+
  .benefit-lead img {
      display: block;
      margin: 10px auto;
@@ -171,7 +165,7 @@
      text-align: center;
  }
 
- /* Alt text: Icon with a person in a suit and light bulb in front of their head */
+
  .benefit-brand img {
      display: block;
      margin: 10px auto;
@@ -188,7 +182,6 @@
      text-align: center;
  }
 
- /*Alt text: An icon with a gear and three coins */
  .benefit-cost img {
      display: block;
      margin: 10px auto;

@@ -31,11 +31,17 @@ THEN I find a concise, descriptive title
 - Updated HTML header elements to flow in numerical order (H1, H2, H3, etc)
 - Added Alt text to images
 - Cleaned up HTML code around the footer section
-- Added more specific HTML semantic elements and updated corresponding CSS sections to match
+- Added more specific HTML semantic elements, such as <aside>, and updated corresponding CSS sections to match
 - Consolidated redundant CSS elements
+- Updated HTML class to fix the Search Engine Optimization anchor in the top navigation
 ---
 ## Mock-Up
 
+---
+![HoriseonRefactor](https://github.com/sammyc33/horiseon-code-refactor/blob/main/assets/images/Horiseon-Mock-up.png?raw=true)
+---
+
 ## Deployed Page
 
+https://sammyc33.github.io/horiseon-code-refactor
 
